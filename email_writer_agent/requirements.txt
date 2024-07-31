@@ -1,0 +1,14 @@
+annotated-types==0.7.0
+anyio==4.4.0
+certifi==2024.7.4
+distro==1.9.0
+groq==0.9.0
+h11==0.14.0
+httpcore==1.0.5
+httpx==0.27.0
+idna==3.7
+pydantic==2.8.2
+pydantic_core==2.20.1
+python-dotenv @ git+https://github.com/theskumar/python-dotenv.git@4d505f2c9bc3569791e64bca0f2e4300f43df0e0
+sniffio==1.3.1
+typing_extensions==4.12.2
